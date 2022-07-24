@@ -24,3 +24,7 @@ UI Clone - Discord
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Styled Components</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> TypeScript</li>
 </ul>
+
+
+
+<p align="center" dir="auto">reference <a href="https://www.youtube.com/watch?v=x4FdZd2-_uU&ab_channel=Rocketseat" rel="nofollow">here</a>.</p>
