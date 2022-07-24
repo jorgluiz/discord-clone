@@ -27,4 +27,4 @@ UI Clone - Discord
 
 
 
-<p align="center" dir="auto">reference <a href="https://www.youtube.com/watch?v=x4FdZd2-_uU&ab_channel=Rocketseat" rel="nofollow">here</a>.</p>
+<p dir="auto">Reference <a href="https://www.youtube.com/watch?v=x4FdZd2-_uU&ab_channel=Rocketseat" rel="nofollow">here</a>.</p>
